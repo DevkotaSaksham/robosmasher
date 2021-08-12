@@ -1,0 +1,70 @@
+# Blender MTL File: 'None'
+# Material Count: 6
+
+newmtl LAT.005
+Ns 407.843137
+Ka 1.000000 1.000000 1.000000
+Kd 0.430580 0.395126 0.421549
+Ks 0.269112 0.246954 0.263468
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.022
+Ns 358.823529
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.400000 0.400000 0.400000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.023
+Ns 249.019608
+Ka 1.000000 1.000000 1.000000
+Kd 0.492142 0.492142 0.492142
+Ks 0.307589 0.307589 0.307589
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -bm 0.350042 C:\\Users\\nahid\\Downloads\\TexturesCom_Metal_SteelPlain_1K_normal.tif
+map_Kd C:\\Users\\nahid\\Downloads\\TexturesCom_Metal_SteelPlain_1K_albedo.tif
+map_Ns C:\\Users\\nahid\\Downloads\\TexturesCom_Metal_SteelPlain_1K_roughness.tif
+
+newmtl Material.026
+Ns 249.019608
+Ka 1.000000 1.000000 1.000000
+Kd 0.710339 0.181573 0.050408
+Ks 0.443962 0.113483 0.031505
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -bm 0.350042 -s 0.333333 0.333333 1.000000 C:\\Users\\nahid\\Downloads\\TexturesCom_Metal_Medieval_1K_normal.tif
+map_Ns -s 0.333333 0.333333 1.000000 C:\\Users\\nahid\\Downloads\\TexturesCom_Metal_Medieval_1K_roughness.tif
+
+newmtl iron.005
+Ns 462.745098
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.400000 0.400000 0.400000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl plastic.005
+Ns 500.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.009034 0.018287 0.050975
+Ks 0.005646 0.011429 0.031859
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -bm 0.350042 C:\\Users\\nahid\\Downloads\\TexturesCom_Plastic_PolypropyleneRough_1K_normal.tif
+map_Kd C:\\Users\\nahid\\Downloads\\TexturesCom_Plastic_PolypropyleneRough_1K_albedo.tif
+map_Ns C:\\Users\\nahid\\Downloads\\TexturesCom_Plastic_PolypropyleneRough_1K_roughness.tif
